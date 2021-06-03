@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/com/show/admin/thongKeUserServlet.java=UTF-8
+encoding//src/com/show/admin/thongKeVideoServlet.java=UTF-8
+encoding//src/com/show/dao/FavoriteDAO.java=UTF-8
+encoding//src/com/show/dao/ShareDAO.java=UTF-8
+encoding//src/com/show/servlet/ChangePassServlet.java=UTF-8
+encoding//src/com/show/servlet/CreateFavoriteServlet.java=UTF-8
+encoding//src/com/show/servlet/DetailServlet.java=UTF-8
+encoding//src/com/show/servlet/LoginServlet.java=UTF-8
+encoding//src/com/show/servlet/RegistrationServlet.java=UTF-8
+encoding//src/com/show/servlet/RememberAccount.java=UTF-8
+encoding//src/com/show/servlet/SendMailServlet.java=UTF-8
+encoding//src/com/show/servlet/SignoutServlet.java=UTF-8
+encoding//src/com/show/servlet/UpdateServlet.java=UTF-8
